@@ -1,5 +1,7 @@
 # Never Gonna Give You Up
 
+**Challenge Type: HTML Redirect**
+
 ## Challenge
 You have been walking for a few hours. Zombies are everywhere. Are you the only survivor now? Should you give up?
 
