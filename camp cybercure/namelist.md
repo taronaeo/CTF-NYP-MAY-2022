@@ -4,13 +4,10 @@
 
 Who is the mysterious leader of Camp CyberCure? This list might give a clue.
 
-| Person 1: Same first name and last name.
-
-| Person 2: Same last name as a 2010 Rock and Roll Hall of Fame Inductee.
-
-| Person 3: Digits of their phone number add up to 61
-
-| Person 4: Oldest of three brothers.
+> Person 1: Same first name and last name.  
+> Person 2: Same last name as a 2010 Rock and Roll Hall of Fame Inductee.  
+> Person 3: Digits of their phone number add up to 61  
+> Person 4: Oldest of three brothers.
 
 One of these four suspects has only one letter 'o' in their name. Use their phone number to unzip the flag password file.
 
