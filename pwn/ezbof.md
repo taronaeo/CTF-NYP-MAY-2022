@@ -1,6 +1,6 @@
 # EzBof
 
-**Challenge Type: Buffer Overflow**
+**Challenge Type: Buffer Overflow**  
 **Challenge Status: Solved**
 
 ## Challenge

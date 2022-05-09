@@ -1,5 +1,8 @@
 # Camp CyberCure: Lunch Time
 
+**Challenge Type: OSINT**  
+**Challenge Status: Solved**
+
 ## Challenge
 Before you can enter Camp CyberCure, you should bring some food. Luckily, one of your friends knows a place.
 

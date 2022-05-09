@@ -1,6 +1,6 @@
 # ElfVirus
 
-**Challenge Type: String in Binary**
+**Challenge Type: String in Binary**  
 **Challenge Status: Solved**
 
 ## Challenge

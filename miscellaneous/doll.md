@@ -1,6 +1,6 @@
 # Doll
 
-**Challenge Type: Steganography**
+**Challenge Type: Steganography**  
 **Challenge Status: Unsolved**
 
 ## Challenge

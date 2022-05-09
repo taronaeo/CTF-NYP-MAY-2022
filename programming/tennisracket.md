@@ -1,5 +1,8 @@
 # Tennis Racket
 
+**Challenge Type: REPL Shell**  
+**Challenge Status: Solved**
+
 ## Challenge
 I just started my Computer Science Course at NUS last week and my CS prof is teaching us how to use Racket! He set up a server on his personal computer for us to upload and test our code, I wonder if I can find the answers to next week's test on here heh
 

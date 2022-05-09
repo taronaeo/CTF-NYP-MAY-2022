@@ -1,6 +1,6 @@
 # Research Materials
 
-**Challenge Type: HTTP Host Header Manipulation**
+**Challenge Type: HTTP Host Header Manipulation**  
 **Challenge Status: Unsolved**
 
 ## Challenge

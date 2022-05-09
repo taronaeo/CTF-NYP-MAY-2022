@@ -1,5 +1,8 @@
 # Script Kiddies
 
+**Challenge Type: HTML/JS Manipulation**  
+**Challenge Status: Solved**
+
 ## Challenge
 To find out more about the vaccine that the Pentagon has developed, you decide to hack their website. It is not necessary to be an IT expert to hack a website. Important: please do not hack the actual Pentagon website.
 

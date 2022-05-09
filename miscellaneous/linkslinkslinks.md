@@ -1,6 +1,6 @@
 # Links, links, links
 
-**Challenge Type: Traversal**
+**Challenge Type: Traversal**  
 **Challenge Status: Unsolved**
 
 ## Challenge

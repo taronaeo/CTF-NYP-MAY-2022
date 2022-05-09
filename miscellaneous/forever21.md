@@ -1,6 +1,6 @@
 # Forever 21
 
-**Challenge Type: base21 (arbitrary)**
+**Challenge Type: base21 (arbitrary)**  
 **Challenge Status: Unsolved**
 
 ## Challenge

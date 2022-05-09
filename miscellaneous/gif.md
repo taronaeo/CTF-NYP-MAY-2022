@@ -1,6 +1,6 @@
 # Gif
 
-**Challenge Type: gif frames**
+**Challenge Type: gif frames**  
 **Challenge Status: Solved**
 
 # Challenge

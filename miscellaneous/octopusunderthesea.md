@@ -1,6 +1,6 @@
 # Octopus Under The Sea
 
-**Challenge Type: Convert Octal to ASCII**
+**Challenge Type: Convert Octal to ASCII**  
 **Challenge Status: Solved**
 
 ## Challenge

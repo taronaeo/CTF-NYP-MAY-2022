@@ -1,5 +1,8 @@
 # Camp CyberCure: Namelist
 
+**Challenge Type: OSINT**  
+**Challenge Status: Solved**
+
 ## Challenge
 
 Who is the mysterious leader of Camp CyberCure? This list might give a clue.

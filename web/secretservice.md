@@ -1,6 +1,6 @@
 # Secret Service
 
-**Challenge Type: security.txt**
+**Challenge Type: security.txt**  
 **Challenge Status: Unsolved**
 
 ## Challenge

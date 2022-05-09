@@ -1,6 +1,6 @@
 # Submit Request
 
-**Challenge Type: HTTP Method**
+**Challenge Type: HTTP Method**  
 **Challenge Status: Solved**
 
 ## Challenge

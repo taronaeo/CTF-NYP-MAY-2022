@@ -1,6 +1,6 @@
 # Primary School Math
 
-**Challenge Type: Convert Decimal to ASCII**
+**Challenge Type: Convert Decimal to ASCII**  
 **Challenge Status: Solved**
 
 ## Challenge

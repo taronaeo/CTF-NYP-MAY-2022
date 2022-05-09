@@ -1,6 +1,7 @@
 # Silver Head
 
-**Challenge Type: Robots Exclusion Standard (SEO)**
+**Challenge Type: Robots Exclusion Standard (SEO)**  
+**Challenge Status: Solved**
 
 ## Challenge
 Congrats! You managed to reach here. Now you have to activate the self-destruct system. Only Silver Head know what the password is. The only information you know about Silver Head is that it is not a living human...

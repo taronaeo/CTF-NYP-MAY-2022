@@ -1,6 +1,6 @@
 # Hexa-Bugs!
 
-**Challenge Type: Convert Hex to ASCII**
+**Challenge Type: Convert Hex to ASCII**  
 **Challenge Status: Solved**
 
 ## Challenge

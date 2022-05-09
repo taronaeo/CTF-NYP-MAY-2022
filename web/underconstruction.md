@@ -1,6 +1,7 @@
 # Under Construction
 
-**Challenge Type: Cookies / JWT**
+**Challenge Type: Cookies / JWT**  
+**Challenge Status: Solved**
 
 ## Challenge
 You heard the Pentagon has developed a vaccine against this virus. You visited their website and realize it is still under-construction.  

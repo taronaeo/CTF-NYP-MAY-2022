@@ -1,5 +1,8 @@
 # Tennis Racket 2
 
+**Challenge Type: SSTI (Server Side Template Injection)**  
+**Challenge Status: Solved**
+
 ## Preface
 
 This challenge consists of 2 parts. First being, getting the flag file and second, exploiting an internal webserver.

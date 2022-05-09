@@ -1,6 +1,7 @@
 # Bad Vaccine
 
-**Challenge Type: SQL Injection**
+**Challenge Type: SQL Injection**  
+**Challenge Status: Solved**
 
 ## Challenge
 Find out what are the bad vaccines and destroy them.  

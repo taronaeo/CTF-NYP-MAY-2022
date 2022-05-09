@@ -1,6 +1,7 @@
 # Club House
 
-**Challenge Type: LFI (Local File Inclusion)**
+**Challenge Type: LFI (Local File Inclusion)**  
+**Challenge Status: Solved**
 
 ## Challenge
 You login to your Clubhouse account and to see if there are any other survivors. You notice one of the rooms is unusual.  
