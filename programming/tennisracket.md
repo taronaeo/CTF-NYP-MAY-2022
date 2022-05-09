@@ -64,3 +64,8 @@ NYP{lisp_or_scheme_idk_anymore}
 
 ## Ending Note
 This challenge was originally solved entirely using Racket-lang's built-in functions. But ever since I found a way to spawn a root shell, the process has became significantly easier.
+
+# Other Reads
+
+Check out the author's write-up of this challenge. He explains it in more detail together with his thought process.  
+https://github.com/Portatolova/NYP-CTF-Challenges/tree/main/2022%20May%20CTF/Programming%20-%20Tennis%20Racket

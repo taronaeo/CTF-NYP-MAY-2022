@@ -122,3 +122,8 @@ NYP{r5ck3t_fl5sk_sst1}
 ## Ending Note
 
 Flask has many other methods for linking into `__globals__` space. `url_for` is one of them.
+
+# Other Reads
+
+Check out the author's write-up of this challenge. He explains it in more detail together with his thought process.  
+https://github.com/Portatolova/NYP-CTF-Challenges/tree/main/2022%20May%20CTF/Programming%20-%20Tennis%20Racket%202
